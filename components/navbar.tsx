@@ -54,7 +54,7 @@ export default function Navbar() {
               asChild
               className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold px-6 py-2 transition-all duration-200 hover:scale-105"
             >
-              <a href="#kontak">Hire Me</a>
+              <a href="#portfolio">Hire Me</a>
             </Button>
           </div>
 
